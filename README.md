@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mas742
+- 👋 Hi, I’m @Abhishek_Bora
 - 👀 I’m interested in Software Product Management
 - 🌱 I’m currently learning and working as Associate Product Manager
 - 💞️ I’m looking to collaborate on Software Product
